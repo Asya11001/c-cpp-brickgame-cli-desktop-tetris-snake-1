@@ -1,4 +1,0 @@
-/Users/evangelm/Documents/github-repos/brickgame/cpp-brickgame-snake-xenzia-1/build/CMakeFiles/brickgame_desktop.dir
-/Users/evangelm/Documents/github-repos/brickgame/cpp-brickgame-snake-xenzia-1/build/CMakeFiles/edit_cache.dir
-/Users/evangelm/Documents/github-repos/brickgame/cpp-brickgame-snake-xenzia-1/build/CMakeFiles/rebuild_cache.dir
-/Users/evangelm/Documents/github-repos/brickgame/cpp-brickgame-snake-xenzia-1/build/CMakeFiles/brickgame_desktop_autogen.dir
